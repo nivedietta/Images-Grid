@@ -6,10 +6,14 @@ img {
 p{
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
+    color: blanchedalmond;
     margin-left: 1.6%;
     font-weight: 800;
     border-bottom: 1px solid grey;
     width: 30%;
     padding-bottom: 20px;    
     padding-top: 20px;
+}
+body {
+    background-color: black;
 }
